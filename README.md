@@ -1,5 +1,6 @@
 Olá, meu nome é Elaine Cox
-atualmente sou professora da rede estadual de ensino público
+
+Atualmente sou professora da rede estadual de ensino público
 
 
 <!---
